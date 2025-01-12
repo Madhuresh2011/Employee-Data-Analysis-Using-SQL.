@@ -1,5 +1,6 @@
 # Employee-Data-Analysis-Using-SQL.
 
+![Screenshot 2025-01-12 124530](https://github.com/user-attachments/assets/f0232738-cc96-46a8-b43b-711362ce8831)
 
 
 ### How to Load the Sample Database `test_db` for MySQL
@@ -7,6 +8,9 @@
 ![image](https://github.com/user-attachments/assets/bf49ee56-9730-4ba5-afe5-f370dcf605b4)
 
 In this guide, you'll learn step-by-step how to load the `test_db` sample database into MySQL. This database contains comprehensive data for testing purposes, including employee records and salary entries.
+
+![Screenshot 2025-01-12 124707](https://github.com/user-attachments/assets/2c1f4662-445b-41ed-834e-424b2344713d)
+
 
 #### Prerequisites
 Before starting, ensure you have the following:
