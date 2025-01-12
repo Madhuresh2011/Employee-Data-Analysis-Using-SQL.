@@ -1,5 +1,7 @@
 # Employee-Data-Analysis-Using-SQL.
 
+
+
 ### How to Load the Sample Database `test_db` for MySQL
 
 ![image](https://github.com/user-attachments/assets/bf49ee56-9730-4ba5-afe5-f370dcf605b4)
